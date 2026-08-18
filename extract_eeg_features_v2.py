@@ -10,7 +10,7 @@ warnings.filterwarnings("ignore")
 EEG_DIR    = Path.home() / "Downloads" / "EEG_3channels_resting_lanzhou_2015"
 EXCEL_PATH = EEG_DIR / "subjects_information_EEG_3channels_resting_lanzhou_2015.xlsx"
 OUTPUT_DIR = Path.home() / "Library" / "CloudStorage" / \
-             "GoogleDrive-ohvevo2014@gmail.com" / "My Drive" / "EDAIC"
+             "your.email" / "My Drive" / "EDAIC"
 
 FS        = 250
 N_SAMPLES = 22500
