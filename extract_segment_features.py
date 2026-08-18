@@ -9,13 +9,13 @@ from tqdm import tqdm
 warnings.filterwarnings("ignore")
 
 DATA_DIR = Path.home() / "Library" / "CloudStorage" / \
-           "GoogleDrive-ohvevo2014@gmail.com" / "My Drive" / "EDAIC" / "data"
+           "your.email" / "My Drive" / "EDAIC" / "data"
 
 LABELS_DIR = Path.home() / "Library" / "CloudStorage" / \
-             "GoogleDrive-ohvevo2014@gmail.com" / "My Drive" / "EDAIC" / "labels"
+             "your.email" / "My Drive" / "EDAIC" / "labels"
 
 OUTPUT_DIR = Path.home() / "Library" / "CloudStorage" / \
-             "GoogleDrive-ohvevo2014@gmail.com" / "My Drive" / "EDAIC"
+             "your.email" / "My Drive" / "EDAIC"
 
 N_SEGMENTS = 5
 
