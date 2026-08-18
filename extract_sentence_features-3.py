@@ -7,7 +7,7 @@ from tqdm import tqdm
 warnings.filterwarnings("ignore")
 
 GDRIVE     = Path.home() / "Library" / "CloudStorage" / \
-             "GoogleDrive-ohvevo2014@gmail.com" / "My Drive" / "EDAIC"
+             "your.email" / "My Drive" / "EDAIC"
 DATA_DIR   = GDRIVE / "data"
 LABELS_DIR = GDRIVE / "labels"
 OUTPUT_DIR = GDRIVE
