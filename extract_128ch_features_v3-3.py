@@ -11,7 +11,7 @@ warnings.filterwarnings("ignore")
 
 EEG_DIR    = Path.home() / "Downloads" / "EEG_128channels_resting_lanzhou_2015"
 OUTPUT_DIR = Path.home() / "Library" / "CloudStorage" / \
-             "GoogleDrive-ohvevo2014@gmail.com" / "My Drive" / "EDAIC"
+             "your.email" / "My Drive" / "EDAIC"
 
 FS       = 250
 HIGHPASS = 1.0
